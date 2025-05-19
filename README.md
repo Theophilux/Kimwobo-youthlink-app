@@ -1,2 +1,3 @@
-# Kimwobo-youthlink-app
-Platform to join kiomwobo youths 
+# YouthLink App
+
+React app for managing church youth group.
